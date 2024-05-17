@@ -41,7 +41,7 @@ Foram propostas novas demandas, como:
 
 Foram cumpridas todas as demandas com êxito e antecendência em relação a todos os prazos, o evento foi um sucesso!
 
-O código [Avaliacao.py](https://github.com/usuario/repositorio/blob/main/main.py) foi o código utilizado no evento para gerar o gráfico de barras com o Ranking das 10 primeiras equipes presentes no evento!
+O código [Avaliacao.py](https://github.com/RamonAdonis1227/Avaliacao_CPG/blob/main/Avaliacao.py) foi o código utilizado no evento para gerar o gráfico de barras com o Ranking das 10 primeiras equipes presentes no evento!
 
 
 
