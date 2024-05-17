@@ -50,4 +50,4 @@ O código [Avaliacao.py](https://github.com/RamonAdonis1227/Avaliacao_CPG/blob/m
 - [Ramon Adônis Pereira de Abreu](https://github.com/RamonAdonis1227)
 
 
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.90min.com%2Fpt-BR%2Fplayers%2Fcristiano-ronaldo&psig=AOvVaw10VzYQviCK4xP2lSL4AKTd&ust=1716036854715000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIizpNHdlIYDFQAAAAAdAAAAABAV">
+<img src = "https://images2.minutemediacdn.com/image/upload/c_crop,w_3576,h_2011,x_0,y_179/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/90min_pt-BR_international_web/01hy1p5bfk4wanm0qtb0.jpg">
