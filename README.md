@@ -50,4 +50,4 @@ O código [Avaliacao.py](https://github.com/RamonAdonis1227/Avaliacao_CPG/blob/m
 - [Ramon Adônis Pereira de Abreu](https://github.com/RamonAdonis1227)
 
 
-<img src = "https://images2.minutemediacdn.com/image/upload/c_crop,w_3576,h_2011,x_0,y_179/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/90min_pt-BR_international_web/01hy1p5bfk4wanm0qtb0.jpg">
+<img src = "https://www.juicysantos.com.br/wp-content/uploads/2023/02/cristiano-ronaldo.jpg">
