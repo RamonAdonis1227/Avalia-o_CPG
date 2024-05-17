@@ -1,0 +1,75 @@
+Olá  pessoal, tudo bem? 
+
+  
+
+Meu nome é Ramon e eu explicarei a vocês como manipular a plataforma do Microsoft Forms!!  
+
+  
+
+Editando o questionário: 
+
+  
+
+Caso vocês desejem adicionar uma nova equipe, ou remover alguma em específico, vocês podem ir aos 3 pontinhos do lado direito de seção (mais configurações de seção), ali você escolhe a opção de remover seção e em seguida a opção remover seção e perguntas caso deseje remover alguma equipe específica, e também, duplicar a seção caso deseje adicionar uma nova equipe ao questionário, lembrem-se de alterar o nome da equipe, e os números depois!! 
+
+Lembrando que é de extrema importância a questão dos números de cada equipe, e a Sintaxe estar exatamente do mesmo jeito das outras equipes pré adicionadas, para não ter problemas futuros com o Script de Ranking final!! 
+
+Sobre a questão de nome de cada equipe, eles devem ser alterados onde eu deixei escrito "Nome da Equipe", repetindo, para não ter problemas futuros com o Script!  
+
+  
+
+  
+
+Compartilhamento do questionário: 
+
+  
+
+Para compartilhar o questionário com os avaliadores, vocês podem clicar na caixa Coletar Respostas no campo superior direito, e em seguida vocês podem fazer a seleção das caixas de acordo com as preferências, e também escolher o método de compartilhamento, como URL, Convite, QR Code ou o método de Inserção de Páginas na Web/Sway!! 
+
+Após a escolha de método de compartilhamento, basta compartilhar com o avaliador e esperar que ele realize a avaliação das equipes!! 
+
+  
+
+  
+
+Realizando a Votação: 
+
+  
+
+Para realizar a votação de acordo com as notas para cada equipe, abra o questionário pelo método de compartilhamento recebido, e depois, vote nas estrelinhas com a quantia que você achar pertinente para a equipe a ser avaliada, a quantia de estrelas pode ser escolhida dentro do alcance de 0 a 10! 
+
+Depois de escolhida a quantia de acordo com cada categoria, clique em avançar para ir ao questionário da próxima equipe. 
+
+Pode ser utilizada também a opção de avançar para navegar entre as equipes, as equipes estão ordenadas de acordo com a seção, em ordem numérica, e ao lado botão de avançar, é mostrado o número de seções presentes no questionário, que equivale ao número de equipes enumeradas, use como guia!! 
+
+  
+
+  
+
+Utilizando o Excel para gerar o Ranking: 
+
+  
+
+No canto superior esquerdo, é possível visualizar duas guias, "Perguntas" e "Respostas", essa guia de Perguntas é a página inicial onde é possível editar o questionário, adicionar e remover seções, etc, e na guia de Respostas, é onde conseguimos ver os dados presentes no questionário de forma analítica, e é ali onde fica o Excel com os dados dos avaliadores! 
+
+Clique na guia de Respostas, e logo após, você verá no centro da tela, alguns dados, como total de respostas, tempo médio para concluir e status do questionário, embaixo dessas informações, do lado direito, estará o arquivo Excel, clique na setinha ao lado do arquivo e clique em Baixar uma cópia. 
+
+Após o download ser feito, vá até o Script e procure pela linha parecida com essa: 
+
+  
+
+df = pd.read_excel("Avaliação CPG(1-19).xlsx", engine="openpyxl") 
+
+  
+
+No local onde está "Avaliação CPG(1-19)", você deve alterar o texto para o nome do arquivo que você baixou na sua máquina, e depois, execute o código, ele automaticamente irá mostrar o gráfico de barras com o Ranking das top 10 equipes em ordem do primeiro colocado para o último colocado!! 
+
+  
+
+  
+
+  
+
+Espero ter ajudado pessoal!! 
+
+Fiquem com Deus e desejo um ótimo evento para todos!! 
