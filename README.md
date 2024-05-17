@@ -35,7 +35,7 @@ Foram propostas novas demandas, como:
 
 - **Pré-Formulário:** Foi proposto ser realizado um pré formulário para 40 projetos, visando facilitar a modificação do questionário no dia do evento.
 - **Pontos Específicos:** Foi proposto algumas alterações internas, como pesquisar a possibilidade de não deixar avaliações com respostas obrigatórias, subir o código em plataformas de versionamento e verificar a possibilidade de separar cada equipe em uma página específica para a equipe.
-- **Tutorial:** Foi proposto montar um tutorial de como realizar todo o processo do Microsoft Forms e do código, como compartilhar o questionário de avaliação, como realizar a votação, e como utilizar o código para gerar o gráfico com o Ranking no final.
+- **Tutorial:** Foi proposto montar um [Tutorial](https://github.com/RamonAdonis1227/Avaliacao_CPG/blob/main/Tutorial.txt) de como realizar todo o processo do Microsoft Forms e do código, como compartilhar o questionário de avaliação, como realizar a votação, e como utilizar o código para gerar o gráfico com o Ranking no final.
 
 ## Finalização
 
