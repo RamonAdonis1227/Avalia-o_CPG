@@ -50,4 +50,4 @@ O código [Avaliacao.py](https://github.com/RamonAdonis1227/Avaliacao_CPG/blob/m
 - [Ramon Adônis Pereira de Abreu](https://github.com/RamonAdonis1227)
 
 
-<img src = "https://www.infomoney.com.br/wp-content/uploads/2019/06/cristiano-ronaldo.jpg?resize=900%2C515&quality=50&strip=all">
+<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goal.com%2Fbr%2Flistas%2Fcristiano-ronaldo-barrado-portugal-solucao-euro-2024%2Fblt8d67c7918af428e2&psig=AOvVaw10VzYQviCK4xP2lSL4AKTd&ust=1716036854715000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIizpNHdlIYDFQAAAAAdAAAAABAQ">
